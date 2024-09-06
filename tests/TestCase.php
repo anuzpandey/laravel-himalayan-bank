@@ -2,9 +2,9 @@
 
 namespace AnuzPandey\HimalayanBank\Tests;
 
+use AnuzPandey\HimalayanBank\HimalayanBankServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use AnuzPandey\HimalayanBank\HimalayanBankServiceProvider;
 
 class TestCase extends Orchestra
 {

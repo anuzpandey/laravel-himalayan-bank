@@ -2,9 +2,9 @@
 
 namespace AnuzPandey\HimalayanBank;
 
+use AnuzPandey\HimalayanBank\Commands\HimalayanBankCommand;
 use Spatie\LaravelPackageTools\Package;
 use Spatie\LaravelPackageTools\PackageServiceProvider;
-use AnuzPandey\HimalayanBank\Commands\HimalayanBankCommand;
 
 class HimalayanBankServiceProvider extends PackageServiceProvider
 {
