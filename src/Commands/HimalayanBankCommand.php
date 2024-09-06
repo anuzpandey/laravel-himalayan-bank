@@ -1,12 +1,12 @@
 <?php
 
-namespace VendorName\Skeleton\Commands;
+namespace AnuzPandey\HimalayanBank\Commands;
 
 use Illuminate\Console\Command;
 
-class SkeletonCommand extends Command
+class HimalayanBankCommand extends Command
 {
-    public $signature = 'skeleton';
+    public $signature = 'laravel-himalayan-bank';
 
     public $description = 'My command';
 
